@@ -1,0 +1,2 @@
+# ElasticbeanTest
+Elastic bean test
